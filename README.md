@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋</h1> 
+<h1 Hello 👋</h1> 
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
