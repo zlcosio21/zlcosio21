@@ -12,7 +12,7 @@ the industry.
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,mysql,css,html,heroku,bash,ruby,java,git" />
+    <img src="https://skillicons.dev/icons?i=py,django,java,mysql,bash,ruby,git,html,css,heroku" />
   </a>
 </p>
 <br>
