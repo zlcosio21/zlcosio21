@@ -2,9 +2,8 @@
 <!--Intro start-->
 
 <p align="left">
-Hello! I'm Sebastian, a dedicated backend developer with a passion for creating robust and innovative solutions. My experience and education have equipped me with the skills to excel in crafting efficient and scalable backend
-systems. I thrive on diving deep into technology intricacies, continually honing my skills to stay at the forefront of
-the industry.
+I'm Sebastian. a dedicated Python enthusiast with a strong passion for harnessing the full power of Django. My education and hands-on experience have fortified my expertise. Currently pursuing Computer and Systems Engineering, I dive deep into technology intricacies, honing my skills. Crafting solutions that maximize Django's capabilities is where I find joy, showcasing my commitment to innovative and robust programming.
+
 <!--Intro end-->
   </p>
 
