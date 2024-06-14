@@ -11,7 +11,7 @@ I'm Sebastian. a dedicated Python enthusiast with a strong passion for harnessin
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,java,mysql,postgresql,bash,ruby,git,html,css,heroku" />
+    <img src="https://skillicons.dev/icons?i=django,py,java,sql,mysql,postgresql,bash,ruby,git,html,css,heroku" />
   </a>
 </p>
 <br>
