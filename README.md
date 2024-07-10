@@ -15,4 +15,3 @@ I'm Sebastian, a dedicated Python enthusiast with a strong passion for harnessin
     <img src="https://skillicons.dev/icons?i=django,py,java,bash,mysql,postgresql,ruby,git,html,css,heroku" />
   </a>
 </p>
-<br>
