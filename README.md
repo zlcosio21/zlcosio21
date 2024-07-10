@@ -2,7 +2,7 @@
 
 <!--Intro start-->
 <p align="left">
-I'm Sebastian. a dedicated Python enthusiast with a strong passion for harnessing the full power of Django. My education and hands-on experience have fortified my expertise. Currently pursuing Computer and Systems Engineering, I dive deep into technology intricacies, honing my skills. Crafting solutions that maximize Django's capabilities is where I find joy, showcasing my commitment to innovative and robust programming.
+I'm Sebastian, a dedicated Python enthusiast with a strong passion for harnessing the full power of Django. My education and hands-on experience have fortified my expertise. Currently pursuing Computer and Systems Engineering, I dive deep into technology intricacies, honing my skills. Crafting solutions that maximize Django's capabilities is where I find joy, showcasing my commitment to innovative and robust programming.
 </p>
 <!--Intro end-->
 
@@ -15,5 +15,5 @@ I'm Sebastian. a dedicated Python enthusiast with a strong passion for harnessin
 </p>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlcosio21)](https://github.com/anuraghazra/github-readme-stats)
-<!-------------------------->
+<h2>GitHub Stats📊</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlcosio21&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
