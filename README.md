@@ -5,5 +5,5 @@ I'm Sebastian, a dedicated Python enthusiast with a strong passion for harnessin
 </p>
 - ✨ Student of life :)<br/>
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.<br/>
-- 💻 Visit my [Portfolio](https://zlcosio21.me) for more details about me.<br/>
+- 💻 Visit my <a href="https://zlcosio21.me">Portfolio</a> for more details about me.<br/>
 <!--End Intro-->
