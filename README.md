@@ -7,3 +7,12 @@ I'm Sebastian, a dedicated Python enthusiast with a strong passion for harnessin
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.<br/>
 - 💻 Visit my <a href="https://zlcosio21.me">Portfolio</a> for more details about me.<br/>
 <!--End Intro-->
+
+<!--tech stack icons-->
+<h2>Known technologies👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,py,java,bash,mysql,postgresql,ruby,git,html,css,heroku" />
+  </a>
+</p>
+<br>
