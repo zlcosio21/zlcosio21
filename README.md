@@ -12,6 +12,6 @@ I'm Sebastian, a dedicated Python enthusiast with a strong passion for harnessin
 <h2>Known technologies👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,aws,java,bash,mysql,postgresql,ruby,git,html,css,heroku" />
+    <img src="https://skillicons.dev/icons?i=django,py,aws,java,bash,mysql,postgresql,ruby,rails,git,html,css" />
   </a>
 </p>
