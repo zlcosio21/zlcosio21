@@ -1,7 +1,7 @@
 <!--Start Intro-->
 <h2>Welcome 😁</h2>
 <p align="left">
-I'm Sebastian, a dedicated Python enthusiast with a strong passion for harnessing the full power of Django. My education and hands-on experience have fortified my expertise. Currently pursuing Computer and Systems Engineering, I dive deep into technology intricacies, honing my skills. Crafting solutions that maximize Django's capabilities is where I find joy, showcasing my commitment to innovative and robust programming.
+I'm Sebastian, a passionate technology enthusiast with a deep love for computer science. My journey in Computer and Systems Engineering has strengthened my skills in problem-solving and software development. I enjoy exploring new technologies, optimizing systems, and building innovative solutions. Whether it's web development, algorithms, or software architecture, I’m always eager to push the boundaries of what's possible through code.
 </p>
 - ✨ Student of life :)<br/>
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.<br/>
