@@ -15,7 +15,7 @@ I'm Sebastian, a passionate technology enthusiast with a deep love for computer 
 <!--Languages-->
 <h3>Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ruby,java,bash&perline=10" width="250"/>
+  <img src="https://skillicons.dev/icons?i=py,ruby,java,bash&perline=10" width="220"/>
 </p>
 
 <!--Frameworks & Libraries-->
