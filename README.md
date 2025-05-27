@@ -9,10 +9,47 @@ I'm Sebastian, a passionate technology enthusiast with a deep love for computer 
 - 💻 Visit my <a href="https://zlcosio21.me">Portfolio</a> for more details about me.<br/>
 <!--End Intro-->
 
-<!--tech stack icons-->
-<h2>Known technologies👨🏻‍💻</h2>
+<!--Tech Stack Icons-->
+<h2>Known technologies 👨🏻‍💻</h2>
+
+<!--Languages-->
+<h3>Languages</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,linux,aws,java,bash,mysql,postgresql,rails,ruby,git,html,css" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,ruby,java,bash&perline=10" width="250"/>
+</p>
+
+<!--Frameworks & Libraries-->
+<h3>Frameworks & Libraries</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,rails,qt,selenium&perline=10" width="200"/>
+</p>
+
+<!--Dev Tools & Platforms-->
+<h3>Development Tools & Platforms</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,git,notion&perline=10" width="160"/>
+</p>
+
+<!--Cloud & DevOps-->
+<h3>Cloud & DevOps</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,heroku&perline=10" width="105"/>
+</p>
+
+<!--Databases-->
+<h3>Databases</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=10" width="120"/>
+</p>
+
+<!--Operating Systems-->
+<h3>Operating Systems</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch&perline=10" width="100"/>
+</p>
+
+<!--Web Technologies-->
+<h3>Web Technologies</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css&perline=10" width="100"/>
 </p>
