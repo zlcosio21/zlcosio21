@@ -21,7 +21,7 @@ I'm Sebastian, a passionate technology enthusiast with a deep love for computer 
 <!--Frameworks & Libraries-->
 <h3>Frameworks & Libraries</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,rails,qt,selenium&perline=10" width="200"/>
+  <img src="https://skillicons.dev/icons?i=django,rails,selenium,qt&perline=10" width="200"/>
 </p>
 
 <!--Dev Tools & Platforms-->
